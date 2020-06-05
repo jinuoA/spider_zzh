@@ -16,7 +16,7 @@ constantly==15.1.0
 cryptography==2.5
 cssselect==1.0.3
 decorator==4.4.0
-Django==2.0.1
+Django==2.2.13
 django-admin-bootstrapped==2.5.7
 django-cors-headers==2.4.0
 django-debug-toolbar==1.11
