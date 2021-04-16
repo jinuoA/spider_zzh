@@ -19,7 +19,7 @@ decorator==4.4.0
 Django==2.0.1
 django-admin-bootstrapped==2.5.7
 django-cors-headers==2.4.0
-django-debug-toolbar==1.11
+django-debug-toolbar==1.11.1
 docopt==0.6.2
 docxtpl==0.5.17
 et-xmlfile==1.0.1
