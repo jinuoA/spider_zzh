@@ -69,7 +69,7 @@ PyHamcrest==1.9.0
 pymongo==3.7.2
 PyMySQL==0.9.3
 pyOpenSSL==19.0.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pypinyin==0.34.1
 pypiwin32==223
 pyrsistent==0.14.11
